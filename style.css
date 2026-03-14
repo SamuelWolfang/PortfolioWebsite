@@ -14,7 +14,7 @@
         width: 2.5rem;
         z-index: 100;
         overflow: hidden;
-        background: #0c1852; /* unchanged, good contrast */
+        background: #0c1852;
     }
 
     #navbar > li > .nav-button{
@@ -208,5 +208,3 @@ input:focus, textarea:focus {
     outline: none;
     border-color: #1a2a7a; /* darker blue */
 }
-
-/* Commented media queries left unchanged */
